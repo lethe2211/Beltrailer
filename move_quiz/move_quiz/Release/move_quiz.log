@@ -1,0 +1,17 @@
+﻿2013/06/26 15:14:06 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Lethe\Dropbox\move_quiz\move_quiz\move_quiz.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\move_quiz.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+         move_quiz.vcxproj -> C:\Users\Lethe\Dropbox\move_quiz\Release\move_quiz.exe
+       FinalizeBuildStatus:
+         ファイル "Release\move_quiz.unsuccessfulbuild" を削除しています。
+         "Release\move_quiz.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\Lethe\Dropbox\move_quiz\move_quiz\move_quiz.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.24
